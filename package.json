@@ -1,0 +1,26 @@
+{
+  "name": "typescript-sand",
+  "version": "1.0.0",
+  "description": "begin a typescript project",
+  "main": "dist/index.js",
+  "scripts": {
+    "compile_typescript": "tsc",
+    "watch_and_compile_typescript": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGAdams/typescript-sand.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "EG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGAdams/typescript-sand/issues"
+  },
+  "homepage": "https://github.com/EGAdams/typescript-sand#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
